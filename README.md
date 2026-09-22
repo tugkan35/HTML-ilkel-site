@@ -1,7 +1,7 @@
 # HTML-ilkel-site
 Bu Web Sitesinde HTML5 ve CSS3 kullanılmışttır.
 
-# Sayfalr :
+# Sayfalar :
 -index  
 -ürünlerimiz
 -hizmetlerimiz
