@@ -9,6 +9,5 @@ Bu Web Sitesinde HTML5 ve CSS3 kullanılmışttır.
 
 # Görsel
 
-<div>
 <img src="Ekran Alıntısı.PNG" alt="Siber Suç Görseli" style="border-radius: 20px; max-width: 100%;">
-</div>
+
